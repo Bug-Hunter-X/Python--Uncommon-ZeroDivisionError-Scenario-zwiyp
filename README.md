@@ -1,0 +1,1 @@
+This repository demonstrates a subtle scenario that can lead to a ZeroDivisionError in Python. The provided code sample showcases how to effectively handle this error by making sure division by zero is properly checked. The solution enhances the error handling for a more robust application. 
